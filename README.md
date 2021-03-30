@@ -5,10 +5,11 @@ Tried and implemented concept of Threading for the hammer movements.
 
 
 
-Setting up the game.
+
+Setting up the Game Whacky.
 Download the code and make sure you have the latest version of Python3.
 Install the PyGame Library onto your system.
-use the following command to add the pygame library to python:
+Use the following command to add the pygame library to python:
 pip install pygame
 
 Voila! Now it's ready to run.
